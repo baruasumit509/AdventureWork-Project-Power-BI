@@ -1,6 +1,6 @@
 # AdventureWork-Project-Power-BI
 
-Adventure Works Cycles is a global manufacturing company, to design and deliver
+Adventure Works Cycles is a global manufacturing company, and my role design and deliver
 an end-to-end business intelligence solution.
 
 
